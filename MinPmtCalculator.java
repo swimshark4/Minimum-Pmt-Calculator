@@ -42,8 +42,6 @@ public class MinPaymentCraigSamuel {
 		System.out.print("Enter your Annual Interest Rate: ");
 		double annualInterestRate = input.nextDouble();
 		
-
-		
 		// Declarations here to keep them in scope for the do-while loop
 		double monthlyPmt = 0;
 		double monthlyIntRate = 0;
